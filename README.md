@@ -123,4 +123,11 @@ Si humidité < seuil :
 - 🌾 Agriculture intelligente  
 - 🚜 Smart farming  
 - 💧 Gestion de l’eau  
-- 🌍 Agriculture durable  
+- 🌍 Agriculture durable
+
+## 👥 Équipe
+ 
+| Nom | GitHub |
+|---|---|
+| Asma Al Dalil | [@hananebelhyane](https://github.com/ASMAALDALIL) |
+| Meryem Al Moumi | [@MeryemAlMoumi](https://github.com/MeryemAlMoumi) |
