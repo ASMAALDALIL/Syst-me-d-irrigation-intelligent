@@ -129,5 +129,5 @@ Si humidité < seuil :
  
 | Nom | GitHub |
 |---|---|
-| Asma Al Dalil | [@hananebelhyane](https://github.com/ASMAALDALIL) |
+| Asma Al Dalil | [@ASMAALDALIL](https://github.com/ASMAALDALIL) |
 | Meryem Al Moumi | [@MeryemAlMoumi](https://github.com/MeryemAlMoumi) |
